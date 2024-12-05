@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import './App.css';
 
 function App() {
-  const [content, setContent] = useState('');
+  const [content, setContent] = useState(null);
 
   const showContent = (section) => {
     if (section === 'install') {
