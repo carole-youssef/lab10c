@@ -40,7 +40,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Lab10c: React</h1>
+      <h1>Lab10c: Node.js and React</h1>
 
       <div className="buttons">
         <button onClick={() => showContent('install')}>How I Built My Webpage</button>
